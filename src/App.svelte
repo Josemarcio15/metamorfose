@@ -119,13 +119,17 @@
     <!-- Floating Stats -->
     <div class="absolute bottom-10 right-10 hidden lg:flex gap-10">
       <div class="text-right">
-        <div class="text-4xl font-black text-orange-600 italic">500+</div>
+        <div class="text-4xl font-black text-orange-600 italic">
+          Venha conhecer
+        </div>
         <div class="text-xs uppercase tracking-widest text-zinc-500 font-bold">
           Alunos Ativos
         </div>
       </div>
       <div class="text-right">
-        <div class="text-4xl font-black text-orange-600 italic">20+</div>
+        <div class="text-4xl font-black text-orange-600 italic">
+          Com Tutores profissionais
+        </div>
         <div class="text-xs uppercase tracking-widest text-zinc-500 font-bold">
           Professores
         </div>

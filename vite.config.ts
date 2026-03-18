@@ -7,5 +7,5 @@ export default defineConfig({
     svelte(),
     tailwindcss(),
   ],
-  base: '/metamorfose/',
+  base: '/',
 })
